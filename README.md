@@ -55,7 +55,7 @@ So the client can update its clock with this information.
 If a connection attempt fails, it is considered a local event.
 More clients could theoretically be added.
 
-VECTOR CLOCK
+# VECTOR CLOCK
 
 The vector clock class is built upon the Lamport clock class and is very similar. It was not used, but it should be possible 
 to implement it.
